@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric Hart
 - 📖 I'm studying CS on track for a BS+MS degree at the University of Pittsburgh
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning operating systems
+- 🌱 I’m currently learning assembly (MIPS) and C
 - 📫 How to reach me ejh109@pitt.edu
 - 😄 Pronouns: they/them
 - 🎤 Favorite Artist: Jane Remover
