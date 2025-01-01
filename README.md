@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric! (she/her)
-- - 🎤 Favorite Artist: Jane Remover
+- 🎤 Favorite Artist: Jane Remover
 - 📖 I'm studying CS on track for a BS+MS degree at the University of Pittsburgh
 - 🌱 I’m currently studying Algorithms and Data Structures
 - 📫 How to reach me ejh109@pitt.edu
