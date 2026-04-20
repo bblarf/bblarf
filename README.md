@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabrina! (she/her)
 - 🎤 Favorite Artist: Jane Remover
-- 📖 I'm studying DNID at the University of Pittsburgh
+- 📖 I'm studying DNID and Computer Science at the University of Pittsburgh
 - 🌱 I’m currently studying Web Development with an intent to go into Front-End Development
 - 📫 How to reach me: ejh109@pitt.edu
 
